@@ -14,6 +14,8 @@ Projects range from small Python programs to future work involving electronics, 
 |---|---|---|---|
 | 001 | [Number Guessing Game](001-number-guessing-game/) | Python | A terminal-based guessing game featuring random number generation, input validation, error handling, and guess tracking. |
 
+| 002 | [Card Deck Simulator](002-card-deck-simulator/) | Random card selection, lists, functions, and variable scope | Complete |
+
 *More projects will be added as I continue learning.*
 
 ## Learning Goals
